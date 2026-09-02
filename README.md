@@ -1,2 +1,2 @@
 # OpenCV-practice
-Just a bunch of practice programs done by me to check it
+### Just a bit of Practice of the Open CV library to check objects, edit images, and much more.
